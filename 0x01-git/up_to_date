@@ -1,1 +1,1 @@
-cat > up_to_date
+git pull https://github.com/iamlearner0/alx-pre_course.git
